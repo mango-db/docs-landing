@@ -12,4 +12,3 @@ documentation no longer receives updates.
 ----------
 
 .. deprecated-version-selector::
-
